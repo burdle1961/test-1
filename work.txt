@@ -4,3 +4,4 @@ content 3
 master content 4
 master content 5
 master content 6 (remote work)
+add from RPi node02
